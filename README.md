@@ -1,5 +1,5 @@
 # Boto3
-Using Boto3 and Python to do tasks on AWS. Today, I finally dug into Boto3. I have used it slightly before running Lambda but this was my first time I began to really deep dive and understand it. I have buuilt my Pythin and AWS skills simultaneously but separetly these path few months, so today was really special to put both skills together with BOTO3 and automate tasks.
+Using Boto3 and Python to do tasks on AWS. Today, I finally dug into Boto3. I have used it slightly before running Lambda but this was my first time I began to really deep dive and understand it. I have built my Pythin and AWS skills simultaneously but separetly these path few months, so today was really special to put both skills together with BOTO3 and automate tasks.
 
 On ec2.py - I used EC2 as a client and launched an instance and printed its ID, waited 45 seconds for it to get into a running state, then stopped it and waited 30 seconds then restarted it. Finally, I terminated the instance and printed the IDs of all instances thata re terminated currently in your account. There are print statements throughout updating you of the progress in the terminal.
 
